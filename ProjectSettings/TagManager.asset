@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Bouncing
+  - Enemies
+  - Spike
+  - Bullets
+  - InterActive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3603905655
+    locked: 0
+  - name: Water
+    uniqueID: 670879439
+    locked: 0
+  - name: Platforms
+    uniqueID: 2493028189
+    locked: 0
+  - name: Ladder
+    uniqueID: 767445895
+    locked: 0
+  - name: Bouncing
+    uniqueID: 2003868321
+    locked: 0
+  - name: Enemy
+    uniqueID: 1381310871
+    locked: 0
+  - name: Spike
+    uniqueID: 1577745377
+    locked: 0
+  - name: InterActive
+    uniqueID: 3394038433
+    locked: 0
+  - name: Player
+    uniqueID: 186387549
+    locked: 0
+  m_RenderingLayers:
+  - Default

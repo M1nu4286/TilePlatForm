@@ -1,0 +1,61 @@
+# --- Unity Folders to Ignore (하위 폴더 어디에 있든 무시) ---
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.utmp/
+.vs/
+.gradle/
+
+# --- OS & IDE Files ---
+.DS_Store
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DotSettings.user
+
+# --- Unity Generated ---
+sysinfo.txt
+mono_crash.*
+*.log
+
+# --- Builds & Packages ---
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# --- Assets (Large Files & Auto-generated) ---
+[Aa]ssets/StreamingAssets/aa/*
+[Aa]ssets/AddressableAssetsData/*/*.bin*
+[Aa]ssets/Unity.VisualScripting.Generated/*
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Unity Tools ---
+/[Rr]ecordings/
+/[Mm]emoryCaptures/
+.plastic/
+/[Aa]sset[Ss]tore[Tt]ools/
+
+# --- Crashlytics & Services ---
+crashlytics-build.properties
+
+/Assets/Sprite/
+/Assets/Sprite.meta
